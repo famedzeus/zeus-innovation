@@ -1,0 +1,10 @@
+{
+  "name": "zeus-innovation",
+  "homepage": "https://github.com/famedzeus/zeus-innovation",
+  "authors": [
+    "Graham Reed <graham.reed1@hotmail.co.uk>"
+  ],
+  "description": "test",
+  "main": "serviceCallManager.js",
+  "license": "MIT"
+}
